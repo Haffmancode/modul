@@ -1,0 +1,41 @@
+
+texts.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+text1
+  rotate: false
+  xy: 2, 112
+  size: 380, 53
+  orig: 380, 53
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 2, 57
+  size: 378, 53
+  orig: 378, 53
+  offset: 0, 0
+  index: -1
+text3
+  rotate: false
+  xy: 384, 112
+  size: 378, 53
+  orig: 378, 53
+  offset: 0, 0
+  index: -1
+text4
+  rotate: false
+  xy: 2, 2
+  size: 378, 53
+  orig: 378, 53
+  offset: 0, 0
+  index: -1
+text5
+  rotate: false
+  xy: 382, 57
+  size: 378, 53
+  orig: 378, 53
+  offset: 0, 0
+  index: -1
